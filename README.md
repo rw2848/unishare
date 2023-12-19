@@ -51,12 +51,12 @@ After successful installation, users can log in, verify their UNI, select their 
 
 ## Contribution
 
-For contributing to UniShare, please refer to the `CONTRIBUTING.md` file for guidelines.
+For contributing to UniShare, please contact administrator for guidelines.
 
 ## License
 
-UniShare is licensed under [specify license type]. For more details, see the `LICENSE` file.
+UniShare is licensed under MIT.
 
 ## Support
 
-For any queries or issues, please open an issue on the GitHub repository or contact [support email/contact information].
+For any queries or issues, please open an issue on the GitHub repository or contact the administrator.
